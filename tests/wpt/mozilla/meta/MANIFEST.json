@@ -4103,6 +4103,18 @@
      {}
     ]
    ],
+   "css/overflow_clipping.html": [
+    [
+     "/_mozilla/css/overflow_clipping.html",
+     [
+      [
+       "/_mozilla/css/overflow_clipping_ref.html",
+       "=="
+      ]
+     ],
+     {}
+    ]
+   ],
    "css/overflow_position_abs_inline_block.html": [
     [
      "/_mozilla/css/overflow_position_abs_inline_block.html",
@@ -8445,6 +8457,11 @@
     ]
    ],
    "css/overflow_border_radius_ref.html": [
+    [
+     {}
+    ]
+   ],
+   "css/overflow_clipping_ref.html": [
     [
      {}
     ]
@@ -20544,7 +20561,7 @@
    "support"
   ],
   "css/border_radius_in_border_radius_a.html": [
-   "ee5099078e3403236fafbe82879c203f4c13cf50",
+   "64ad2121d35db22286fbea2d0835f2a36aa90570",
    "reftest"
   ],
   "css/border_radius_in_border_radius_ref.html": [
@@ -22737,6 +22754,14 @@
   ],
   "css/overflow_border_radius_ref.html": [
    "3798d0efb1b9858ad47ecf6f09357c3c0dae1b80",
+   "support"
+  ],
+  "css/overflow_clipping.html": [
+   "113caf24c45d5ff1d04d8b6d00030ae0c0e9313b",
+   "reftest"
+  ],
+  "css/overflow_clipping_ref.html": [
+   "c92b4319d6b5bfc6e904c951cca521c1c157353b",
    "support"
   ],
   "css/overflow_position_abs_inline_block.html": [
